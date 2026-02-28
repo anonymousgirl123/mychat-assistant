@@ -1,4 +1,4 @@
-# Sequential Question Answering with Flan-T5
+# Sequential Question Answering with Flan-T5 
 Abstract
 
 This project implements a sequential, context-aware question answering pipeline using the Flan-T5 language model. The system processes three related queries in a chained manner, where each generated response serves as contextual input for the subsequent query. The final output is a strictly deterministic binary response (YES or NO).
