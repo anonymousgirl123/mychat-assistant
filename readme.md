@@ -15,7 +15,7 @@ Stage 3: Produce a deterministic binary classification (YES or NO) for Question 
 
 Generation randomness is disabled to ensure reproducibility.
 
-Model
+### Model
 
 Model: google/flan-t5-xl
 
